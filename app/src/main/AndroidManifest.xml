@@ -15,7 +15,7 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3940256099942544~6300978111" />
 
-        <activity android:name=".MainActivity"
+        <activity android:name=".SplashActivity"
             android:screenOrientation="landscape"
             >
             <intent-filter>
@@ -23,6 +23,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity"
+            android:screenOrientation="landscape"
+            >
         </activity>
 
     </application>
