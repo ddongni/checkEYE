@@ -3,4 +3,5 @@
     <color name="gainsboro">#DCDCDC</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darkgray">#8C8C8C</color>
 </resources>
